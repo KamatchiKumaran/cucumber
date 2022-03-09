@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main
-    
+jobs:
 #Build's job
-  create:
+  build:
     #Depends on sonar's job
     name: Build
     #Run on Ubuntu using the latest version
