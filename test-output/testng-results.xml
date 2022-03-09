@@ -20,16 +20,16 @@
       <![CDATA[Result: Passed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-03-09T18:22:26 IST" name="Default suite" finished-at="2022-03-09T18:23:26 IST" duration-ms="59849">
+  <suite started-at="2022-03-09T20:25:48 IST" name="Default suite" finished-at="2022-03-09T20:27:11 IST" duration-ms="82958">
     <groups>
     </groups>
-    <test started-at="2022-03-09T18:22:26 IST" name="Default test" finished-at="2022-03-09T18:23:26 IST" duration-ms="59849">
+    <test started-at="2022-03-09T20:25:48 IST" name="Default test" finished-at="2022-03-09T20:27:11 IST" duration-ms="82958">
       <class name="test.firstPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T18:22:26 IST" name="setup" finished-at="2022-03-09T18:23:25 IST" duration-ms="59382" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T20:25:48 IST" name="setup" finished-at="2022-03-09T20:27:11 IST" duration-ms="82517" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="firstPageTest()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T18:23:25 IST" name="firstPageTest" finished-at="2022-03-09T18:23:26 IST" duration-ms="336" status="PASS">
+        <test-method signature="firstPageTest()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T20:27:11 IST" name="firstPageTest" finished-at="2022-03-09T20:27:11 IST" duration-ms="258" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application : REFERENCE-APP]]>
