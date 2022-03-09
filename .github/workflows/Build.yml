@@ -6,7 +6,7 @@ on:
       - main
     
 #Build's job
-  build:
+  create:
     #Depends on sonar's job
     name: Build
     #Run on Ubuntu using the latest version
