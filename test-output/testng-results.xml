@@ -2,12 +2,6 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Application : REFERENCE-APP]]>
-    </line>
-    <line>
-      <![CDATA[Deployed MicroService URL : http://eureka-server.cloud.pcftest.com/]]>
-    </line>
-    <line>
       <![CDATA[Test Result: ]]>
     </line>
     <line>
@@ -19,24 +13,24 @@
     <line>
       <![CDATA[Result: Passed]]>
     </line>
+    <line>
+      <![CDATA[Application : REFERENCE-APP]]>
+    </line>
+    <line>
+      <![CDATA[Deployed MicroService URL : http://eureka-server.cloud.pcftest.com/]]>
+    </line>
   </reporter-output>
-  <suite started-at="2022-03-09T20:25:48 IST" name="Default suite" finished-at="2022-03-09T20:27:11 IST" duration-ms="82958">
+  <suite started-at="2022-03-09T22:35:14 IST" name="Default suite" finished-at="2022-03-09T22:35:39 IST" duration-ms="24840">
     <groups>
     </groups>
-    <test started-at="2022-03-09T20:25:48 IST" name="Default test" finished-at="2022-03-09T20:27:11 IST" duration-ms="82958">
+    <test started-at="2022-03-09T22:35:14 IST" name="Default test" finished-at="2022-03-09T22:35:39 IST" duration-ms="24840">
       <class name="test.firstPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T20:25:48 IST" name="setup" finished-at="2022-03-09T20:27:11 IST" duration-ms="82517" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T22:35:14 IST" name="setup" finished-at="2022-03-09T22:35:38 IST" duration-ms="24662" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="firstPageTest()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T20:27:11 IST" name="firstPageTest" finished-at="2022-03-09T20:27:11 IST" duration-ms="258" status="PASS">
+        <test-method signature="firstPageTest()[pri:0, instance:test.firstPageTest@6ca8564a]" started-at="2022-03-09T22:35:39 IST" name="firstPageTest" finished-at="2022-03-09T22:35:39 IST" duration-ms="108" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Application : REFERENCE-APP]]>
-            </line>
-            <line>
-              <![CDATA[Deployed MicroService URL : http://eureka-server.cloud.pcftest.com/]]>
-            </line>
             <line>
               <![CDATA[Test Result: ]]>
             </line>
@@ -48,6 +42,12 @@
             </line>
             <line>
               <![CDATA[Result: Passed]]>
+            </line>
+            <line>
+              <![CDATA[Application : REFERENCE-APP]]>
+            </line>
+            <line>
+              <![CDATA[Deployed MicroService URL : http://eureka-server.cloud.pcftest.com/]]>
             </line>
           </reporter-output>
         </test-method> <!-- firstPageTest -->
